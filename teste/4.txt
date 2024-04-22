@@ -1,0 +1,2 @@
+Acenderia dois interruptores, marcando o que não acendi, e iria até a sala de das lampadas, notaria quais estão ligadas
+e voltaria até a sala dos interruptores e apagaria um dos dois que acendi anteriormente, assim sabendo qual acende tais lampadas!
